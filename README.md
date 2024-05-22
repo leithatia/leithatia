@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h3 align="left">A passionate software developer and aspiring cybersecurity specialist</h3>
+<h3 align="left">Software developer and aspiring cybersecurity specialist</h3>
 
 - 💬 Ask me about **Pentesting, chess tactics & IFR procedures**
 
