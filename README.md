@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Leith aka WildGrape</h1>
+![Header](./github-header-image.png)
 <h3 align="left">A passionate software developer and aspiring cybersecurity specialist</h3>
 
 - 💬 Ask me about **Pentesting, chess tactics & IFR procedures**
