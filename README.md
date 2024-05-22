@@ -1,6 +1,8 @@
 ![Header](./github-header-image.png)
 <h3 align="left">Software developer and aspiring cybersecurity specialist</h3>
 
+- 🔭 I work in education teaching **full stack development**  
+
 - 💬 Ask me about **Pentesting, chess tactics & IFR procedures**
 
 - 📫 How to reach me **wi1dgr4p3@proton.me**
