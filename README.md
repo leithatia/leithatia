@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **wi1dgr4p3@proton.me**
 
-- ⚡ Fun fact **I lived on a small rock in the middle of the North Sea for several years**
+- ⚡ Fun fact **I lived on a small rock in the middle of the North Sea for several years with nothing but a potato peeler and a pair of swimming trunks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
