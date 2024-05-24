@@ -3,7 +3,7 @@
 
 - 🔭 I work in education teaching **full stack development**  
 
-- 💬 Ask me about **Pentesting, chess tactics & IFR procedures**
+- 💬 Ask me about **Pentesting, sound design || music composition, chess tactics && IFR procedures**
 
 - 📫 How to reach me **wi1dgr4p3@proton.me**
 
