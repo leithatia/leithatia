@@ -9,6 +9,12 @@
 
 - ⚡ Fun fact **I could survive in a jungle with nothing but a potato peeler and a pair of swimming trunks, but probably not for long**
 
+<h3 align="left">Music && Sound design</h3>
+
+I have a lifelong love affair with music and have worked with indie game devs, media companies and bloggers.
+
+Find me on 🎵 [SoundCloud](https://soundcloud.com/audioboyproductions) | 🎵 [Pond5](https://www.pond5.com/pt/artist/audioboyproductions) | 📺 [YouTube](https://www.youtube.com/@audioboyproductions168) | 🎮 [Steam](https://store.steampowered.com/app/559450/Demented_Pixie/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leithatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leithatia" height="30" width="40" /></a>
